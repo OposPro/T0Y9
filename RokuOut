@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<component name="MainScene" extends="Scene" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://rokudev.roku.com/rokudev/schema/RokuSceneGraph.xsd">
+<script type="text/brightscript" uri="pkg:/components/MainScene/MainScene.brs"/>
+
+
+  <children>
+    <Poster 
+      id="background" 
+      width="1920" 
+      height="1080" 
+      translation="[0,0]" 
+      loadDisplayMode="scaleToFill" />
+
+    <Rectangle 
+      width="600" 
+      height="1080" 
+      color="0x000000AA" 
+      translation="[0,0]" />
+
+    <Label 
+      text="MEU PLAYER ROKU" 
+      translation="[60, 50]" 
+      font="font:LargeBoldSystemFont" 
+      color="0xFFFFFFFF" />
+
+    <LabelList 
+      id="list" 
+      translation="[60, 150]" 
+      itemSize="[480, 60]" 
+      itemSpacing="[0, 10]" 
+      focusBitmapUri="pkg:/images/focus_grid.png" 
+      currFocusSection="0" />
+
+    <Video 
+      id="Video" 
+      translation="[800, 100]" 
+      width="960" 
+      height="540" 
+      visible="true" />
+
+    <Label 
+      text="Pressione * para Configurações | Direita para Tela Cheia" 
+      translation="[800, 660]" 
+      font="font:SmallSystemFont" 
+      color="0xCCCCCCFF" />
+
+    <save_feed_url id="save_feed_url" />
+    <get_channel_list id="get_channel_list" />
+
+  </children>
+</component>
