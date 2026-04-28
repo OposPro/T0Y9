@@ -1,18 +1,13 @@
 #EXTM3U
-#EXTENC:UTF-8
 
-# Exemplo de um arquivo MP3 local (no seu computador)
-#EXTINF:255, YouTube 
-C:https://m.youtube.com/watch?v=WNeLUngb-Xg&pp=iggCQAE%3D
+#EXTINF:-1, YouTube
+https://link-direto-do-video.m3u8
 
-# Exemplo de uma rádio online via URL
 #EXTINF:-1, YouTube 2
-https://m.youtube.com/watch?v=d_S6HyolN_w
+https://link-direto-do-video2.m3u8
 
-# Exemplo de um vídeo de curta metragem
-#EXTINF:120,pantera
-https://m.youtube.com/watch?v=r_s-7_JnMQg
+#EXTINF:-1, pantera
+https://link-direto-do-video3.m3u8
 
-# Exemplo de Canal de TV (IPTV) com logo e grupo
 #EXTINF:-1 tvg-logo="https://link-da-imagem.png" group-title="Documentários", National Geo Canal
 https://servidor.com/live/canal123.m3u8
