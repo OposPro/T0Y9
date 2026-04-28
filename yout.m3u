@@ -1,13 +1,10 @@
 #EXTM3U
 
 #EXTINF:-1, YouTube
-https://link-direto-do-video.m3u8
+https://m.youtube.com/watch?v=WNeLUngb-Xg
 
 #EXTINF:-1, YouTube 2
-https://link-direto-do-video2.m3u8
+https://m.youtube.com/watch?v=d_S6HyolN_w
 
 #EXTINF:-1, pantera
-https://link-direto-do-video3.m3u8
-
-#EXTINF:-1 tvg-logo="https://link-da-imagem.png" group-title="Documentários", National Geo Canal
-https://servidor.com/live/canal123.m3u8
+https://m.youtube.com/watch?v=r_s-7_JnMQg
