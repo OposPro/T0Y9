@@ -1,6 +1,6 @@
 document.addEventListener('DOMContentLoaded', () => {
     // Busca os dados do seu arquivo data.json local
-    fetch('data.json')
+    fetch('https://raw.githubusercontent.com/OposPro/T0Y9/refs/heads/main/data.json')
         .then(response => {
             if (!response.ok) {
                 throw new Error('Erro ao carregar o arquivo JSON');
