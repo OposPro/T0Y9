@@ -1,0 +1,57 @@
+{
+  "stories": [
+    { "id": 1, "username": "Contratar", "image": "icons/069c1198-f57e-40a5-b1b3-c68679d043af.gif", "has_story": true, "is_user": true },
+    { "id": 2, "username": "DsCells", "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=150", "has_story": true, "is_user": false },
+    { "id": 3, "username": "Atacadao", "image": "icons/dds.png", "has_story": true, "is_user": false },
+    { "id": 4, "username": "Urban", "image": "icons/ddn.png", "has_story": true, "is_user": false },
+    { "id": 5, "username": "gabiStores", "image": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=150", "has_story": true, "is_user": false },
+    { "id": 6, "username": "lucas_dev", "image": "https://images.unsplash.com/photo-1539571696357-5a69c17a67c6?w=150", "has_story": false, "is_user": false }
+  ],
+  "posts": [
+    {
+      "id": 101,
+      "author": "MeuAnapolis",
+      "verified": true,
+      "audio": "netflixbrasil · Áudio original",
+      "author_avatar": "https://assets.nflxext.com/us/ffe/siteui/common/icons/nficon2016.png",
+      "post_image": "icons/urban.jpg",
+      "likes": "45.203",
+      "caption": "Data-base dos trabalhadores venceu há duas semanas e não houve contraproposta da Urban; ano passado, houve paralisação e solução só veio no TRT-GO",
+      "time_ago": "HÁ 2 HORAS"
+    },
+    {
+      "id": 102,
+      "author": "nature_pics",
+      "verified": false,
+      "audio": "Artistas Variados · Som original",
+      "author_avatar": "https://images.unsplash.com/photo-1504280390367-361c6d9f38f4?w=80",
+      "post_image": "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?w=600",
+      "likes": "1.250",
+      "caption": "O amanhecer perfeito na montanha. Quem você levaria para esse lugar? 🌄✨",
+      "time_ago": "HÁ 5 HORAS"
+    },
+    {
+      "id": 103,
+      "author": "tech_gadgets",
+      "verified": true,
+      "audio": "Lo-Fi Beats · Chill Hop",
+      "author_avatar": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=80",
+      "post_image": "https://images.unsplash.com/photo-1542751371-adc38448a05e?w=600",
+      "likes": "8.912",
+                    "caption": "Setup dos sonhos atualizado! O que mudariam aqui? 🖥️🔥 #setup #gaming #tech",
+                    "time_ago": "ONTEM"
+    },
+    {
+      "id": 113,
+      "author": "cidadeDeAnapolis",
+      "verified": true,
+      "audio": "Lo-Fi Beats · Chill Hop",
+      "author_avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgi-2MVtIkQ1JNG5qKYKASCUMOx2eYJ20rkLo52_EPdA&s=10",
+      "post_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJTq1QRt9eaBwn-N4NnegPg4ZFxBz9aTxO5VoJk0LrDA&s=10",
+      "likes": "8.912",
+                    "caption": "Anápolis é um importante polo industrial e logístico em Goiás, localizado a cerca de 50 km de Goiânia e 140 km de Brasília. A cidade destaca-se pelo polo farmacêutico e pelo DAIA (Distrito Agroindustrial de Anápolis). Conta com infraestrutura urbana robusta e população de quase 400 mil habitantes.",
+                    "time_ago": "ONTEM"
+    }
+    
+  ]
+}
